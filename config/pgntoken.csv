@@ -1,0 +1,12 @@
+﻿Comment;string;pgnStr
+WhiteSlightlyBetter;+/=;$14
+WhiteDecisiveAdvantage;+-;$18
+BlackSlightlyBetter;=/+;$15
+BlackDecisiveAdvantage;-+;$19
+DoubleExcl;!!;$3
+DoubleQuest;??;$4
+ExclQuest;!?;$24
+QuestExcl;?!;$25
+EvenPos;=;$10
+GoodMove;!;$28
+BadMove;?;$29
